@@ -27,7 +27,7 @@ Bibliothèques : Pour gérer les appels à l'API PokeAPI, l'application pourrait
 
 Affichage des images : Pour afficher les images des Pokémons, l'application pourrait utiliser la bibliothèque Glide (https://github.com/bumptech/glide). Cette bibliothèque permet de charger et de mettre en cache les images de manière efficace. Elle peut également afficher une image de remplacement si l'image réelle ne peut pas être chargée.
 
-Gestion de la base de données : Pour stocker les données localement sur le téléphone de l'utilisateur, l'application pourrait utiliser Room (https://developer.android.com/training/data-storage/room). Cette bibliothèque permet de créer et de gérer une base de données SQLite de manière plus facile et plus efficace. Elle gère également l'écriture et la lecture des données dans la base de données.
+
 
 Traitement de l'interface utilisateur : Pour gérer l'interface utilisateur de l'application, l'application pourrait utiliser le framework Android. Android Studio fournit des outils tels que le Concepteur de mise en page pour créer des interfaces utilisateur conviviales.
 
